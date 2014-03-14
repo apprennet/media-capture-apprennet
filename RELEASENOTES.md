@@ -62,3 +62,7 @@
 
 ### 0.2.8 (Feb 26, 2014)
 * CB-5202 Fix video capture crash on Android 4.3+
+
+### 0.2.81 (March 14, 2014)
+* Forked from Cordova Media-Capture
+* Enabled lower rez for iPhone and Android
