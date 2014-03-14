@@ -4,7 +4,7 @@
     "cordova_name": "Capture",
     "description": "Cordova Media Capture Plugin ApprenNet Modification",
     "license": "Apache 2.0",
-    "repo": "https://github.com/jasonblanchard/test.git",
+    "repo": "https://github.com/apprennet/media-capture-apprennet.git",
     "issue": "https://issues.apache.org/jira/browse/CB/component/12320646",
     "keywords": [
         "cordova",
