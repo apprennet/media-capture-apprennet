@@ -258,7 +258,7 @@
         pickerController.allowsEditing = NO;
         
         //Custom
-        pickerController.videoQuality = UIImagePickerControllerQualityTypeLow;
+        pickerController.videoQuality = UIImagePickerControllerQualityType640x480;
         pickerController.cameraDevice = UIImagePickerControllerCameraDeviceFront;
         
         
