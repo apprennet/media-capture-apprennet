@@ -63,6 +63,26 @@
 ### 0.2.8 (Feb 26, 2014)
 * CB-5202 Fix video capture crash on Android 4.3+
 
-### 0.2.81 (March 14, 2014)
+### 0.3.0 (Apr 17, 2014)
+* CB-6152: [ios, android] Make mediafile compatible with file plugin
+* CB-6385: Specify file plugin dependency version
+* CB-6212: [iOS] fix warnings compiled under arm64 64-bit
+* CB-6016 [BlackBerry10] Add audio capture capability
+* [Blackberry10] Add rim xml namespaces declaration
+* CB-6422 [windows8] use cordova/exec/proxy
+* CB-6460: Update license headers
+* Add NOTICE file
+
+### 0.3.1 (Jun 05, 2014)
+* Added translations to documentation. Github close #14
+* Remove deprecated symbols for iOS < 6
+* Fixes captureTasks UI URIs
+* CB-6808 Add license
+* CB-6706: Relax dependency on file plugin
+* CB-6491 add CONTRIBUTING.md
+
+
+### 0.3.11 (Jul 3, 2014)
 * Forked from Cordova Media-Capture
 * Enabled lower rez for iPhone and Android
+
